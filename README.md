@@ -6,4 +6,4 @@ Edit USer
 ![{7C2FF27F-52E3-48C5-A3FF-B2E788FEBF7F}](https://github.com/user-attachments/assets/188daf8b-dbf0-49aa-8e64-578cbd561a91)
 
 
-This backend project uses Ejs, express , node js and mongoDB to perform the CRUD opereation on User data which basically takes Name, email, image as input for each user
+This backend project uses Ejs,Tailwind, express , node js and mongoDB to perform the CRUD opereation on User data which basically takes Name, email, image as input for each user
